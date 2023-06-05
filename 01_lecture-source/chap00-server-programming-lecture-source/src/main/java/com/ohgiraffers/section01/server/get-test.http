@@ -1,0 +1,5 @@
+### GET method test with
+GET http://localhost:12341
+###
+GET http://localhost:12341/
+

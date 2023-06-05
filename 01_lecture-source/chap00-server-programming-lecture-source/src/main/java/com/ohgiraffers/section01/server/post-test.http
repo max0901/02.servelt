@@ -1,0 +1,8 @@
+### Post Method test with json data
+POST http://localhost:12341
+Content-Type: :application/json
+
+{
+"userId":"user01",
+"username":"홍길동"
+}
